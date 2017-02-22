@@ -1,0 +1,13 @@
+/build
+/.gradle
+/.settings
+/.classpath
+/.project
+/.idea
+*.iml
+lib/*
+*#
+~*
+*~
+src/legacytest/*
+checkouts/*
